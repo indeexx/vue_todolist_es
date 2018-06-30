@@ -205,7 +205,7 @@ export default class Index extends Vue {
       li {
         display: inline-block;
         width: 100%;
-        height: 1.5rem;
+        min-height: 1.5rem;
         font-size: 16px;
         overflow: hidden;
         border-bottom: 1px solid #cccccc;
